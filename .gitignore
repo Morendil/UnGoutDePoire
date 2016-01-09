@@ -1,0 +1,4 @@
+.DS_Store
+*.inform/*
+!*.inform/Source
+!*.inform/uuid.txt
