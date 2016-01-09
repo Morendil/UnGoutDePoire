@@ -27,3 +27,5 @@ Agile Open France 2016!!! To-do list:
 
 Report registering:
   say "You register for the conference."
+
+Release along with an interpreter.
